@@ -6,12 +6,12 @@ var website_name = "TRUST";
 // =======================================================
 // TELEGRAM CHANNEL https://t.me/boost/TrustBoostBD
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = https://t.me/boost/TrustBoostBD
 
 // =======================================================
-// TELEGRAM GROUP LINK
+// TELEGRAM GROUP LINK https://t.me/boost/TrustBoostBD
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = https://t.me/boost/TrustBoostBD
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
