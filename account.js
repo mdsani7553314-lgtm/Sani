@@ -1,17 +1,17 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME https://trustboostbd-l8mj.onrender.com
 // =======================================================
-var website_name = "YASIN";
+var website_name = "Trust";
 
 // =======================================================
-// TELEGRAM CHANNEL LINK
+// TELEGRAM CHANNEL https://t.me/boost/TrustBoostBD
 // =======================================================
 var telegram_channel_link = "telegram channel link";
 
 // =======================================================
-// TELEGRAM GROUP LINK
+// TELEGRAM GROUP https://t.me/boost/TrustBoostBD
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = 
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
