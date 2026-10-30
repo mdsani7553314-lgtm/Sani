@@ -16,7 +16,7 @@ var telegram_group_link =//t.me/boost/TrustBoostBD
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = "https://www.youtube.com/@AminUddin-1M";
+var youtube_channel_link = "";
 
 // =======================================================
 // NOTIFICATION TEXT
