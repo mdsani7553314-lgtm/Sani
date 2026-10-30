@@ -14,7 +14,7 @@ var telegram_channel_link = https://t.me/boost/TrustBoostBD
 var telegram_group_link = https://t.me/boost/TrustBoostBD
 
 // =======================================================
-// YOUTUBE CHANNEL LINK
+// YOUTUBE CHANNEL https://www.youtube.com/@AminUddin-1M
 // =======================================================
 var youtube_channel_link = "YouTube channel link";
 
