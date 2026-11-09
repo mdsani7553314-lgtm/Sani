@@ -1,11 +1,15 @@
 {
   "logo": "logo-1793887553522.png",
   "ffBanner": null,
-  "ffPackages": null,
   "banners": [
     "banner-1793888536458-8236.jpg",
     "banner-1793889188522-7559.jpg",
     "banner-1793889849305-2462.jpg"
   ],
-  "quick": null
+  "quick": null,
+  "images": null,
+  "prod": null,
+  "texts": {
+    "hours": "সকাল ১০টা থেকে রাত ২টা"
+  }
 }
